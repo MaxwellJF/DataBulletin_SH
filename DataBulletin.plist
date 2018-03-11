@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<!-- <string>https://salesnetwork.10010sh.cn:9040/pms-wap/upload/iphone/BIPortableHD_SH.ipa?num=Math.random()</string> -->
+					<string>https://salesnetwork.10010sh.cn:9040/unibss/users/boncapp/RSF/app/apk/ios/MobilePortal_bonc.ipa?num=Math.random()</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://salesnetwork.10010sh.cn:9040/pms-wap/upload/iphone/icon57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://salesnetwork.10010sh.cn:9040/pms-wap/upload/iphone/icon512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<!-- bundle identifier:com.bonc.DataBulletin.UNICOM.SH。版本号：1.0.0。 name：上海数据通报 -->
+			<dict>
+				<key>bundle-identifier</key>
+				<!-- <string>com.bonc.BIPortableHD.UNICOM.SH</string> -->
+				<string>com.bonc.DataBulletin.UNICOM.SH</string>
+				<key>bundle-version</key>
+				<!-- <string>2017120718</string> -->
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<!-- <string>BIPortableHD_SH</string> -->
+				<string>上海数据通报</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
